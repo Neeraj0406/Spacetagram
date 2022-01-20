@@ -1,20 +1,16 @@
-*{
-    margin:0px;
-    padding:0px;
-    box-sizing: border-box;
-    /* background-color: bisque; */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
-#heart{
-    font-size: 1.5rem;
+#heart {
+  font-size: 1.5rem;
 }
-.share_btn{
-    cursor: pointer;
-    
-    
+.share_btn {
+  cursor: pointer;
 }
-.title{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-   
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
